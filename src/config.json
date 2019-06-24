@@ -68,7 +68,7 @@
             "password": "moodle"
         },
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://mysite.abc”",
+    "siteurl": "http://localhost/”",
     "sitename": "MUICT",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
